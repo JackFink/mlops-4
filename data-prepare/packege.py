@@ -9,7 +9,7 @@ Original file is located at
 
 # 패키지 설치
 !pip install --upgrade pip
-!pip install -y vim # 로컬 진행을 위해 apt -> pip로 변경
-!pip install python 3.11
+!apt install -y vim # 로컬 진행을 위해 apt -> pip로 변경
+!apt install python 3.11
 
 !pip install -q requests pandas numpy python-dotenv
