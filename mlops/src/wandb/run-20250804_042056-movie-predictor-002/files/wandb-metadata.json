@@ -1,0 +1,46 @@
+{
+  "os": "Windows-10-10.0.26100-SP0",
+  "python": "CPython 3.11.9",
+  "startedAt": "2025-08-03T19:20:56.382576Z",
+  "args": [
+    "train",
+    "movie_predictor",
+    "--num_epochs",
+    "6"
+  ],
+  "program": "E:\\내 드라이브\\Colab Notebooks\\mlops-4\\mlops-4\\mlops\\src\\main.py",
+  "codePath": "mlops\\src\\main.py",
+  "codePathLocal": "main.py",
+  "git": {
+    "remote": "https://github.com/JackFink/mlops-4.git",
+    "commit": "c4d23c31ba2fd63ae8ef60b2ec0b5b9001b3eb29"
+  },
+  "email": "blusterbros@gmail.com",
+  "root": "E:\\내 드라이브\\Colab Notebooks\\mlops-4\\mlops-4\\mlops\\src",
+  "host": "10900K-ES",
+  "executable": "E:\\내 드라이브\\Colab Notebooks\\mlops-4\\mlops-4\\.venv\\Scripts\\python.exe",
+  "cpu_count": 10,
+  "cpu_count_logical": 20,
+  "gpu": "NVIDIA GeForce RTX 3060",
+  "gpu_count": 1,
+  "disk": {
+    "/": {
+      "total": "1024191361024",
+      "used": "577754857472"
+    }
+  },
+  "memory": {
+    "total": "137363922944"
+  },
+  "gpu_nvidia": [
+    {
+      "name": "NVIDIA GeForce RTX 3060",
+      "memoryTotal": "12884901888",
+      "cudaCores": 3584,
+      "architecture": "Ampere",
+      "uuid": "GPU-0140b186-1193-3902-6fc2-ed9478763680"
+    }
+  ],
+  "cudaVersion": "12.9",
+  "writerId": "7df5i5si3t8mluyegdouek5cb1mdeov6"
+}

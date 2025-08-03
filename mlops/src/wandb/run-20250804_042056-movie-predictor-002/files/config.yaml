@@ -1,0 +1,74 @@
+_wandb:
+    value:
+        cli_version: 0.21.0
+        e:
+            7df5i5si3t8mluyegdouek5cb1mdeov6:
+                args:
+                    - train
+                    - movie_predictor
+                    - --num_epochs
+                    - "6"
+                codePath: mlops\src\main.py
+                codePathLocal: main.py
+                cpu_count: 10
+                cpu_count_logical: 20
+                cudaVersion: "12.9"
+                disk:
+                    /:
+                        total: "1024191361024"
+                        used: "577754857472"
+                email: blusterbros@gmail.com
+                executable: E:\내 드라이브\Colab Notebooks\mlops-4\mlops-4\.venv\Scripts\python.exe
+                git:
+                    commit: c4d23c31ba2fd63ae8ef60b2ec0b5b9001b3eb29
+                    remote: https://github.com/JackFink/mlops-4.git
+                gpu: NVIDIA GeForce RTX 3060
+                gpu_count: 1
+                gpu_nvidia:
+                    - architecture: Ampere
+                      cudaCores: 3584
+                      memoryTotal: "12884901888"
+                      name: NVIDIA GeForce RTX 3060
+                      uuid: GPU-0140b186-1193-3902-6fc2-ed9478763680
+                host: 10900K-ES
+                memory:
+                    total: "137363922944"
+                os: Windows-10-10.0.26100-SP0
+                program: E:\내 드라이브\Colab Notebooks\mlops-4\mlops-4\mlops\src\main.py
+                python: CPython 3.11.9
+                root: E:\내 드라이브\Colab Notebooks\mlops-4\mlops-4\mlops\src
+                startedAt: "2025-08-03T19:20:56.382576Z"
+                writerId: 7df5i5si3t8mluyegdouek5cb1mdeov6
+        m: []
+        python_version: 3.11.9
+        t:
+            "1":
+                - 5
+                - 53
+            "2":
+                - 5
+                - 53
+            "3":
+                - 2
+                - 13
+                - 14
+                - 15
+                - 16
+            "4": 3.11.9
+            "5": 0.21.0
+            "8":
+                - 3
+            "12": 0.21.0
+            "13": windows-amd64
+api_key:
+    value: b1228665239be8ee5766b08a6ea700747a50c1cc
+model_name:
+    value: movie_predictor
+next_run_name:
+    value: movie-predictor-002
+num_epochs:
+    value: 6
+project_name:
+    value: movie-predictor
+run_name:
+    value: movie-predictor-001

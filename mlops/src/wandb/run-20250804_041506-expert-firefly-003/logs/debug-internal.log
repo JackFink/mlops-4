@@ -1,0 +1,13 @@
+{"time":"2025-08-04T04:15:07.59766+09:00","level":"INFO","msg":"stream: starting","core version":"0.21.0"}
+{"time":"2025-08-04T04:15:07.9772086+09:00","level":"INFO","msg":"stream: created new stream","id":"expert-firefly-003"}
+{"time":"2025-08-04T04:15:07.9772086+09:00","level":"INFO","msg":"stream: started","id":"expert-firefly-003"}
+{"time":"2025-08-04T04:15:07.9772086+09:00","level":"INFO","msg":"handler: started","stream_id":"expert-firefly-003"}
+{"time":"2025-08-04T04:15:07.977721+09:00","level":"INFO","msg":"writer: Do: started","stream_id":"expert-firefly-003"}
+{"time":"2025-08-04T04:15:07.977721+09:00","level":"INFO","msg":"sender: started","stream_id":"expert-firefly-003"}
+{"time":"2025-08-04T04:15:10.5586037+09:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-08-04T04:15:10.6067843+09:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading history steps 0-15, summary, console lines 0-17","runtime_seconds":0.0481806}],"total_operations":1}}
+{"time":"2025-08-04T04:15:10.8139605+09:00","level":"INFO","msg":"stream: closing","id":"expert-firefly-003"}
+{"time":"2025-08-04T04:15:10.8139605+09:00","level":"INFO","msg":"handler: closed","stream_id":"expert-firefly-003"}
+{"time":"2025-08-04T04:15:10.8139605+09:00","level":"INFO","msg":"writer: Close: closed","stream_id":"expert-firefly-003"}
+{"time":"2025-08-04T04:15:10.8139605+09:00","level":"INFO","msg":"sender: closed","stream_id":"expert-firefly-003"}
+{"time":"2025-08-04T04:15:10.8310655+09:00","level":"INFO","msg":"stream: closed","id":"expert-firefly-003"}

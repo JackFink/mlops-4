@@ -1,0 +1,41 @@
+INFO:     Started server process [27392]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+validation success
+INFO:     127.0.0.1:10054 - "GET /batch-predict HTTP/1.1" 200 OK
+INFO:     127.0.0.1:10054 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:10055 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:10056 - "GET /batch-predict HTTP/1.1" 200 OK
+INFO:     127.0.0.1:10070 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:10369 - "GET /batch-predict HTTP/1.1" 200 OK
+INFO:     127.0.0.1:10380 - "GET /batch-predict HTTP/1.1" 200 OK
+INFO:     127.0.0.1:10380 - "GET /batch-predict HTTP/1.1" 200 OK
+INFO:     127.0.0.1:10423 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:10483 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:10483 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:11199 - "GET /batch-predict HTTP/1.1" 200 OK
+INFO:     127.0.0.1:11199 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:11625 - "GET /batch-predict HTTP/1.1" 200 OK
+lidation success
+INFO:     Started server process [27404]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+ERROR:    [Errno 10048] error while attempting to bind on address ('0.0.0.0', 8000): 각 소켓 주소(프로토콜/네트워크 주소/포트)는 하나만 사용할 수 있습니다
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+validation success
+INFO:     Started server process [24708]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8001 (Press CTRL+C to quit)
+validation success
+INFO:     127.0.0.1:11771 - "GET /batch-predict HTTP/1.1" 200 OK
+INFO:     127.0.0.1:11771 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     Started server process [10324]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+ERROR:    [Errno 10048] error while attempting to bind on address ('0.0.0.0', 8001): 각 소켓 주소(프로토콜/네트워크 주소/포트)는 하나만 사용할 수 있습니다
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+validation success
